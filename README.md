@@ -9,3 +9,9 @@ AS1409/AS1409 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 yes
+curl -X 'GET' \
+
+  'http://demo.phoneinfoga.crvx.fr/api/numbers/9951476075/scan/numverify' \
+
+  -H 'accept: application/JSON'995147607 5
+  
